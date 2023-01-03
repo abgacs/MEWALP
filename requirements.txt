@@ -6,7 +6,6 @@ ipydatetime==1.2.0
 importlib==1.0.4
 jupyter-packaging==0.12.2
 mypy-extensions==0.4.3
-navigator-updater==0.2.1
 nbinteract==0.2.6
 bqplot
 ipympl
