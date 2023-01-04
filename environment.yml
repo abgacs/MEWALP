@@ -8,7 +8,6 @@ dependencies:
   - conda-env
   - conda-build
   - conda-verify
-  - _ipyw_jlab_nb_ext_conf
   - anaconda
   - anaconda-navigator
   - navigator-updater
